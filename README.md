@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Bushra Hafeez</h1>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Data Analytics**
 - 🤝 I’ve completed my **Masters in Electrical Engineering** at the National University of Sciences and Technology (NUST)
 
 - 🌱 I’m currently learning **Data Analytics**
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [github.com/RafeyTahir](github.com/RafeyTahir)
 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: She/her
 
 <h3>Websites</h3>
 
