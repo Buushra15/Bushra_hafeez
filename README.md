@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Somethings**
 
-- 👨‍💻 All of my projects are available at [github.com/RafeyTahir](github.com/Buushra15)
+- 👨‍💻 All of my projects are available at [github.com/Buushra15](github.com/Buushra15)
 
 - 😄 Pronouns: She/her
 
